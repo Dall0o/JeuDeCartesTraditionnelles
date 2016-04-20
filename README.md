@@ -4,7 +4,7 @@ Une simple liste de jeu de cartes traditionnelles que j'affectionne particulièr
 
 - [Tarot](https://fr.wikipedia.org/wiki/Tarot_fran%C3%A7ais) via mes parents
 - [Bataille corse](https://fr.wikipedia.org/wiki/Bataille_corse) au Village
-- [Rikiki](https://fr.wikipedia.org/wiki/Ascenseur_%28jeu_de_cartes%2)9 via Aurelien
+- [Rikiki](https://fr.wikipedia.org/wiki/Ascenseur_%28jeu_de_cartes%29) via Aurelien
 - [Dame de Pique](https://fr.wikipedia.org/wiki/Dame_de_Pique) via Theo et Romain
 - [Trente et un](https://fr.wikipedia.org/wiki/Trente_et_un_%28jeu%29) via Elodie
 - [Dumble]()[lien inexistant] via Elodie
